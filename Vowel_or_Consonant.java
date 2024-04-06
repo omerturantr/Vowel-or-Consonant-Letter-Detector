@@ -1,6 +1,6 @@
 import java.util.Scanner;     // Activing 'Scanner' Library
 
-public class VowelOrConsonant {
+public class Vowel_or_Consonant {
     public static void main(String[] args) {
 
         char letter;     // Declaring the Variable
