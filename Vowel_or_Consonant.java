@@ -7,7 +7,7 @@ public class Vowel_or_Consonant {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Enter a letter: ");   letter = input.next().charAt(0);     // Receiving Input from the user
+        System.out.print("Enter a Letter: ");   letter = input.next().charAt(0);     // Receiving Input from the user
 
         if(letter == 'a' || letter == 'e' || letter == 'i' || letter == 'o' || letter == 'u' || letter == 'A' || letter == 'E' || letter == 'I' || letter == 'O' || letter == 'U') {
             System.out.println(letter + " is VOWEL.");     // If the Letter received from the user is VOWEL, print this message.
